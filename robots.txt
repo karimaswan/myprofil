@@ -1,0 +1,4 @@
+Sitemap: http://said-theta.now.sh/sitemap.xml
+
+User-agent: Googlebot
+Disallow: /dd.html
